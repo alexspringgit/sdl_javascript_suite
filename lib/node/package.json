@@ -21,6 +21,6 @@
   "homepage": "https://github.com/smartdevicelink/sdl_javascript_suite#readme",
   "devDependencies": {},
   "dependencies": {
-    "ws": "^7.4.6"
+    "ws": "^7.5.10"
   }
 }
